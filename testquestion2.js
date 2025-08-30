@@ -5,6 +5,6 @@ function setup(){
 var colour=0
 function draw(){
     fill(colour);
-    circle(150,200,100);
+    circle(50,50,50);
 
 }
