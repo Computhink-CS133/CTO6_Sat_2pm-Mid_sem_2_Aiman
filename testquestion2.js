@@ -11,7 +11,7 @@ function draw(){
         fill(colour);
         circle(x,y,50);
         colour=50+50*i;
-        x+=50;
+        x=50+50*i;
         y+=50;
 }
 
