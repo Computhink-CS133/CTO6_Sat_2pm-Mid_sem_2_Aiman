@@ -2,9 +2,9 @@ function setup(){
     createCanvas(600,600);
     background(100);
 }
-var colour=
+var colour=0
 function draw(){
-    fill(0,0,0);
+    fill(colour);
     stroke(255,0,0);
     strokeWeight(10);
     circle(150,200,100);
