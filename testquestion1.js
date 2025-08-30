@@ -6,6 +6,6 @@ function draw(){
     fill(0,0,0);
     stroke(255,0,0);
     strokeWeight(10);
-    circle(150,200,100)
-    triangle(300,200,390,200,310,200)
+    circle(150,200,100);
+    triangle(300,200,390,200,310,200);
 }
