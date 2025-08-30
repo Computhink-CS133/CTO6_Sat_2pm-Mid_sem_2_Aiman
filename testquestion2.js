@@ -12,7 +12,7 @@ function draw(){
         circle(x,y,50);
         colour=50+50*i;
         x=50+50*i;
-        y=50+50*;
+        y=50+50*i;
 }
 
 }
