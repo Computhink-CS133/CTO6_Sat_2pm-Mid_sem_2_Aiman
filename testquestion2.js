@@ -10,7 +10,7 @@ function draw(){
     for(var i=0;i<10;i++){
         fill(colour);
         circle(x,y,50);
-        colour=0+25.5//*i;
+        colour=0+25.5*i;//25.5=
         x=50+50*i;
         y=50+50*i;
 }
