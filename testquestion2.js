@@ -3,6 +3,8 @@ function setup(){
     background(100);
 }
 var colour=0
+var x=50
+var 
 function draw(){
     
     for(var i =0;i<10;i++){
