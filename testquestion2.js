@@ -4,7 +4,10 @@ function setup(){
 }
 var colour=0
 function draw(){
+    
+    for(var i =0;i>10;i++){
     fill(colour);
     circle(50,50,50);
+}
 
 }
