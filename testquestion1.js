@@ -3,5 +3,6 @@ function setup(){
     background(0);
 }
 function draw(){
-    fill()
+    fill(0,0,0)
+    
 }
