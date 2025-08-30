@@ -4,12 +4,13 @@ function setup(){
 }
 var colour=0
 var x=50
-var 
+var y=50
 function draw(){
     
     for(var i =0;i<10;i++){
     fill(colour);
     circle(50,50,50);
+    
 }
 
 }
