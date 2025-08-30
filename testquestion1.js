@@ -7,5 +7,5 @@ function draw(){
     stroke(255,0,0);
     strokeWeight(10);
     circle(150,200,100)
-    triangle(300,200,310,)
+    triangle(300,200,3,200,)
 }
