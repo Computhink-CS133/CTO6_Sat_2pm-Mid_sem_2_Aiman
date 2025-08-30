@@ -4,5 +4,5 @@ function setup(){
 }
 function draw(){
     fill(0,0,0)
-    
+    stroke(255,)
 }
