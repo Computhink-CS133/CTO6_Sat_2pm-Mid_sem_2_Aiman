@@ -3,6 +3,6 @@ function setup(){
     background(0);
 }
 function draw(){
-    fill(0,0,0)
-    stroke(255,)
+    fill(0,0,0);
+    stroke(255,0,0);
 }
